@@ -31,8 +31,8 @@
 <br/>
 
 <a href="https://github.com/RobiChiri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobiChiri&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robichiri&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -40,8 +40,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/roberto-chiriac-443561297/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="robertochiriac8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/roberto-chiriac-443561297/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roberto%20Chiriac%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="robertochiriac8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-robertochiriac8@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [RobiChiri](https://github.com/RobiChiri)
